@@ -13,7 +13,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 ```
 ashish_kumar = {
@@ -29,7 +29,7 @@ Skilled in **HTML, CSS, JavaScript, Python** and exploring Machine Learning thro
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -48,12 +48,16 @@ Skilled in **HTML, CSS, JavaScript, Python** and exploring Machine Learning thro
 
 ---
 
-## 🔥 Projects
+##  Projects
 
-- 🎓 **Student Exam Score Predictor** 
-- 💻 **LeetCode Progress Explorer**
-- 📊 **GitHub Profile Visualizer**
-- ⚖️ **BMI Calculator**
+
+ 
+
+-  **GitHub Profile Visualizer**
+-  **LeetCode Progress Explorer**
+-  **BMI Calculator**
+-  **Delhi Weather Analyzer**
+-  **Student Exam Score Predictor**
 
 ---
 
@@ -71,14 +75,8 @@ Skilled in **HTML, CSS, JavaScript, Python** and exploring Machine Learning thro
 </p>
 
 <p align="center">
-<i>Still learning, still building - every project ships something new.</i>
+<i>Still learning, still building - every project ships something new</i>
 </p>
 
 ---
 
-## 📫 Connect with Me
-
-- 💼 LinkedIn   : https://www.linkedin.com/in/ashish-kumar-nishad-705278361
-- 💻 GitHub : [github.com/ashish-dev-hub](https://github.com/ashish-dev-hub)
-- 🧩 LeetCode  : https://leetcode.com/u/ashish23452
-- 📧 Email : an2182161@gmail.com
