@@ -6,7 +6,7 @@
 
 
 [![Resume](https://img.shields.io/badge/RESUME-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-nishad-705278361)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
 
 </div>
