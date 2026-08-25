@@ -69,8 +69,5 @@ Skilled in **HTML, CSS, JavaScript, Python** and exploring Machine Learning thro
 
 <p align="center">
 <i>Still learning, still building - every project ships something new</i>
-</p>## Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ashish-dev-hub&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
 </p>
+
