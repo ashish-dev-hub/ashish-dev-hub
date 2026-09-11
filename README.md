@@ -32,7 +32,7 @@ Skilled in **HTML, CSS, JavaScript, Python** and exploring Machine Learning thro
 </p>
 
 - **Frontend:** HTML, CSS, JavaScript (Vanilla-first), responsive design systems
-- **Machine Learning:** Python,Pandas, NumPy, EDA & hyperparameter tuning
+- **Machine Learning:** Python,Pandas,NumPy
 - **Deployment:** Streamlit Community Cloud, Vercel, GitHub
 
 ---
