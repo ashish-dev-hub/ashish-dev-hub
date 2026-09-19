@@ -3,10 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ashish+Kumar+%F0%9F%91%8B;Full-Stack+Learner+%7C+ML+Enthusiast;Turning+ideas+into+deployed+apps" alt="Typing SVG" />
 </a>
 
-[![Resume](https://img.shields.io/badge/RESUME-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](#)
+  
+[![Resume](https://img.shields.io/badge/RESUME-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1TewSC5zTZm2Juh1bI5oQ3ONVr1hI-idl/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-nishad-705278361)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
-
+</p>
 </div>
 
 ---
