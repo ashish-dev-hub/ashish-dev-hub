@@ -88,6 +88,17 @@ Skilled in **HTML, CSS, JavaScript, Python** and exploring Machine Learning thro
 <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=ashish-dev-hub&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ashish-dev-hub/ashish-dev-hub/output/github-snake-dark.svg"/>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ashish-dev-hub/ashish-dev-hub/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/ashish-dev-hub/ashish-dev-hub/output/github-snake.svg" alt="GitHub Contribution Snake"/>
+  </picture>
+</p>
 
 
 ---
