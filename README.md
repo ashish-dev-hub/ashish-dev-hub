@@ -17,7 +17,7 @@
 </p>
 
 
-## About Me
+# About Me
 
 Aspiring AI Developer passionate about building intelligent and interactive applications.
 Skilled in **HTML, CSS, JavaScript, Python** and exploring Machine Learning through practical projects.
