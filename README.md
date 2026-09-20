@@ -79,10 +79,6 @@ Skilled in **HTML, CSS, JavaScript, Python** and exploring Machine Learning thro
 <br>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
-<br>
 <img src="https://img.shields.io/badge/EDA-8B5CF6?style=flat-square&logoColor=white"/>
 
 </td>
