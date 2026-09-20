@@ -23,61 +23,99 @@ Aspiring AI Developer passionate about building intelligent and interactive appl
 Skilled in **HTML, CSS, JavaScript, Python** and exploring Machine Learning through practical projects.
 
 ---
+
 # Tech Stack & Tools
 
-###  Frontend
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<table>
+<tr>
+<td valign="top" width="16%">
+
+### Languages
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</td>
+
+<td valign="top" width="16%">
+
+### Frontend
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<br>
+</td>
+
+<td valign="top" width="16%">
 
 ### Backend
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+
+</td>
+
+<td valign="top" width="16%">
 
 ### Database
 
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-###  Languages
+</td>
 
-<p>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<td valign="top" width="18%">
 
-### Machine Learning
+### AI / ML & Data
 
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-8B5CF6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/EDA-8B5CF6?style=flat-square&logoColor=white"/>
 
-###  Tools & Deployment
+</td>
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
+<td valign="top" width="18%">
 
+### Tools & Deployment
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Projects
+#  Projects
 
-- **GitHub Profile Visualizer**
-- **Student Exam Score Predictor**
-- **Snake Game**
-- **BMI Calculator**
-- **Delhi Weather Analyzer**
-
+| Project | Description | Tech Stack |
+|---|---|---|
+| [**Career Sense**](https://github.com/ashish-dev-hub/CareerSense) | AI-powered career guidance platform that helps students explore suitable career paths through personalized analysis and data-driven insights. | HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, Python, ML |
+| [**Student Exam Score Predictor**](https://github.com/ashish-dev-hub/student-predictor) | ML application for predicting student exam performance using academic and lifestyle-related features. | Python, Pandas, NumPy, Scikit-learn, Streamlit |
+| [**GitHub Profile Visualizer**](https://github.com/ashish-dev-hub/github-profile-visualizer) | Web application that retrieves and visualizes GitHub profile information using the GitHub API. | HTML, CSS, JavaScript, GitHub API |
+| [**Heart Disease Prediction**](https://github.com/ashish-dev-hub/heart-prediction) | AI-powered cardiovascular risk prediction dashboard that analyzes patient health indicators and provides an interactive assessment of potential heart disease risk. | React, Vite, Tailwind CSS, Chart.js, Python, Machine Learning |
+| [**Snake Game**](https://github.com/ashish-dev-hub/game-task-) | Interactive browser-based Snake Game with keyboard controls, scoring and boundary wrapping. | HTML, CSS, JavaScript |
 
 ---
 
