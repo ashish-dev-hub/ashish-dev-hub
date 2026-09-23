@@ -19,8 +19,18 @@
 
 # About Me
 
-Aspiring AI Developer passionate about building intelligent and interactive applications.
-Skilled in **HTML, CSS, JavaScript, Python** and exploring Machine Learning through practical projects.
+> I'm a curious learner who loves to understand how things work and turn ideas into reality. 
+ I believe the best way to learn is by getting my hands dirty, experimenting, making mistakes, 
+ and figuring things out.
+
+ **I don't learn just to get a job. I learn because I love to build, 
+ solve real-world problems, and turn my knowledge into something useful.**
+
+ **I strongly believe in building projects, not just watching tutorials - because 
+ the real learning begins when you start building.**
+
+> For me, every project is more than just a project; it's a chance to learn, experiment, 
+and create something that has a purpose.
 
 ---
 
