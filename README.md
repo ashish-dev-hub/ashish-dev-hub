@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1TewSC5zTZm2Juh1bI5oQ3ONVr1hI-idl/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1o616Vytd1pEp_ZekFlFfR_aeoV46-Qi7/view?usp=sharing">
     <img src="https://img.shields.io/badge/RESUME-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 
