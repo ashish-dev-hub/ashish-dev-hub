@@ -1,7 +1,11 @@
 node_modules/
 generate_avatar_gif.js
+generate_typing_svg.js
+preview.html
 avatar_original.png
 Code_Generated_Image.gif
 package.json
 package-lock.json
 radme.md
+README.md.bak
+

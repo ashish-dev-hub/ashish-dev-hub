@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Ashish Kumar - Backend Developer and Agentic AI Enthusiast">
+  <defs>
+    <!-- Background Gradient (Deep Cosmic Cyber Cyan / Navy) -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050811"/>
+      <stop offset="45%" stop-color="#0a1529"/>
+      <stop offset="100%" stop-color="#0f2b48"/>
+    </linearGradient>
+
+    <!-- Radial Center Glow (Electric Cyan / Void Blue) -->
+    <radialGradient id="centerGlow" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.32"/>
+      <stop offset="45%" stop-color="#0284c7" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#050811" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Modern Cyber Grid -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#38bdf8" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+
+    <!-- Metallic Light Sweep across Name -->
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7dd3fc" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Clip path for Name text sweep -->
+    <clipPath id="nameClip">
+      <text x="600" y="105" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="56" font-weight="800" letter-spacing="-0.5">Ashish Kumar Nishad</text>
+    </clipPath>
+
+    <!-- Linear Gradient for Accent Line -->
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    /* Concentric Pulse Rings */
+    .ring {
+      fill: none;
+      stroke: #38bdf8;
+      stroke-width: 1.2;
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: pulseRing 6.5s cubic-bezier(0.2, 0.8, 0.4, 1) infinite;
+      opacity: 0;
+    }
+    .r2 { animation-delay: 2.1s; }
+    .r3 { animation-delay: 4.2s; }
+    @keyframes pulseRing {
+      0% { transform: scale(0.22); opacity: 0.65; stroke-width: 1.8; }
+      50% { opacity: 0.3; }
+      100% { transform: scale(1.65); opacity: 0; stroke-width: 0.6; }
+    }
+
+    /* Floating Cursed / Cyber Spark Particles */
+    .pt {
+      fill: #7dd3fc;
+      opacity: 0;
+      animation-name: floatSpark;
+      animation-iteration-count: infinite;
+      animation-timing-function: ease-in-out;
+    }
+    @keyframes floatSpark {
+      0% { transform: translateY(0); opacity: 0; }
+      25% { opacity: 0.85; }
+      75% { opacity: 0.4; }
+      100% { transform: translateY(-135px); opacity: 0; }
+    }
+
+    /* Text Rise Animations */
+    .rise {
+      animation: textRise 1s cubic-bezier(0.16, 1, 0.3, 1) both;
+    }
+    .d1 { animation-delay: 0.2s; }
+    .d2 { animation-delay: 0.5s; }
+    .d3 { animation-delay: 0.9s; }
+    @keyframes textRise {
+      from { opacity: 0; transform: translateY(18px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Accent Line Breathe and Expand */
+    .accentLine {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: lineGrow 1.2s cubic-bezier(0.16, 1, 0.3, 1) 0.7s both, lineBreathe 4s ease-in-out 1.9s infinite;
+    }
+    @keyframes lineGrow {
+      from { transform: scaleX(0); opacity: 0; }
+      to { transform: scaleX(1); opacity: 1; }
+    }
+    @keyframes lineBreathe {
+      0%, 100% { transform: scaleX(1); opacity: 0.9; }
+      50% { transform: scaleX(1.7); opacity: 0.6; }
+    }
+
+    /* Metallic Light Sweep */
+    .sweep {
+      animation: lightSweep 4.8s ease-in-out 1.2s infinite;
+    }
+    @keyframes lightSweep {
+      0% { transform: translateX(-350px); }
+      50%, 100% { transform: translateX(1250px); }
+    }
+
+    /* Center Ambient Pulse Glow */
+    .ambientGlow {
+      animation: glowPulse 6s ease-in-out infinite;
+    }
+    @keyframes glowPulse {
+      0%, 100% { opacity: 0.75; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.06); }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+      .ring, .pt { opacity: 0; }
+    }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <!-- Glowing Radial Core -->
+  <rect class="ambientGlow" width="1200" height="300" fill="url(#centerGlow)"/>
+
+  <!-- Concentric Orbital Energy Rings -->
+  <circle class="ring" cx="600" cy="132" r="180"/>
+  <circle class="ring r2" cx="600" cy="132" r="180"/>
+  <circle class="ring r3" cx="600" cy="132" r="180"/>
+
+  <!-- Ambient Floating Energy Sparks -->
+  <circle class="pt" cx="685" cy="180" r="2.5" style="animation-duration:6.2s;animation-delay:0.8s"/>
+  <circle class="pt" cx="1120" cy="190" r="3" style="animation-duration:9.5s;animation-delay:1.2s"/>
+  <circle class="pt" cx="485" cy="165" r="1.8" style="animation-duration:5.8s;animation-delay:2.4s"/>
+  <circle class="pt" cx="215" cy="235" r="3.2" style="animation-duration:8.5s;animation-delay:0.3s"/>
+  <circle class="pt" cx="510" cy="245" r="2" style="animation-duration:7.6s;animation-delay:3.1s"/>
+  <circle class="pt" cx="310" cy="210" r="2.4" style="animation-duration:9.0s;animation-delay:1.7s"/>
+  <circle class="pt" cx="160" cy="230" r="1.6" style="animation-duration:8.1s;animation-delay:3.5s"/>
+  <circle class="pt" cx="1080" cy="225" r="2.8" style="animation-duration:10.0s;animation-delay:2.2s"/>
+  <circle class="pt" cx="775" cy="195" r="2" style="animation-duration:8.8s;animation-delay:4.1s"/>
+  <circle class="pt" cx="545" cy="170" r="2.2" style="animation-duration:9.8s;animation-delay:2.9s"/>
+  <circle class="pt" cx="965" cy="195" r="1.8" style="animation-duration:7.5s;animation-delay:0.5s"/>
+  <circle class="pt" cx="735" cy="175" r="2.8" style="animation-duration:10.2s;animation-delay:2.1s"/>
+  <circle class="pt" cx="890" cy="240" r="2.2" style="animation-duration:8.2s;animation-delay:1.9s"/>
+
+  <!-- Main Name Typography -->
+  <text class="rise d1" x="600" y="105" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="56" font-weight="800" fill="#FFFFFF" letter-spacing="-0.5">Ashish Kumar Nishad</text>
+
+  <!-- Metallic Light Sweep across Name -->
+  <g clip-path="url(#nameClip)">
+    <rect class="sweep" x="0" y="45" width="440" height="85" fill="url(#shine)"/>
+  </g>
+
+  <!-- Subtitle -->
+  <text class="rise d2" x="600" y="150" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="23" font-weight="500" fill="#7dd3fc" letter-spacing="1">Backend Developer • Agentic AI Enthusiast</text>
+
+  <!-- Glowing Accent Divider Line -->
+  <rect class="accentLine" x="565" y="174" width="70" height="3.5" rx="2" fill="url(#lineGrad)"/>
+
+  <!-- Tagline / Mission -->
+  <text class="rise d3" x="600" y="210" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16.5" font-weight="400" fill="#bae6fd" letter-spacing="0.4">Architecting Scalable Backend Systems &amp; Intelligent Workflows</text>
+</svg>

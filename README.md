@@ -1,12 +1,10 @@
 
 <div align="center">
-  <picture>
-    <img src="./assets/ashish_avatar_glow_circle.gif" width="160px" alt="Ashish Kumar" style="border-radius: 50%; max-width: 100%;">
-  </picture>
+  <img src="./assets/header.svg" width="100%" alt="Ashish Kumar Nishad Banner" />
   <br/><br/>
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ashish+Kumar+%F0%9F%91%8B;Full-Stack+Learner+%7C+ML+Enthusiast;Turning+ideas+into+deployed+apps" alt="Typing SVG" />
-  </a>
+  <img src="./assets/ashish_avatar_glow_circle.gif" width="150px" alt="Ashish Kumar Nishad" style="border-radius: 50%; max-width: 100%;" />
+  <br/><br/>
+  <img src="./assets/typing.svg" alt="Ashish Kumar Nishad - Roles &amp; Achievements" />
   <br/><br/>
 
 [![Resume](https://img.shields.io/badge/RESUME-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](#https://drive.google.com/file/d/1TewSC5zTZm2Juh1bI5oQ3ONVr1hI-idl/view?usp=sharing)
@@ -19,8 +17,18 @@
 
 # About Me
 
-Aspiring AI Developer passionate about building intelligent and interactive applications.
-Skilled in **HTML, CSS, JavaScript, Python** and exploring Machine Learning through practical projects.
+> I'm a curious learner who loves to understand how things work and turn ideas into reality. 
+ I believe the best way to learn is by getting my hands dirty, experimenting, making mistakes, 
+ and figuring things out.
+
+ **I don't learn just to get a job. I learn because I love to build, 
+ solve real-world problems, and turn my knowledge into something useful.**
+
+ **I strongly believe in building projects, not just watching tutorials - because 
+ the real learning begins when you start building.**
+
+> For me, every project is more than just a project; it's a chance to learn, experiment, 
+and create something that has a purpose.
 
 ---
 
