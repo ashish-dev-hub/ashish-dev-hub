@@ -1,0 +1,7 @@
+node_modules/
+generate_avatar_gif.js
+avatar_original.png
+Code_Generated_Image.gif
+package.json
+package-lock.json
+radme.md

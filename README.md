@@ -1,36 +1,26 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ashish+Kumar+%F0%9F%91%8B;Full-Stack+Learner+%7C+ML+Enthusiast;Turning+ideas+into+deployed+apps" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1o616Vytd1pEp_ZekFlFfR_aeoV46-Qi7/view?usp=sharing">
-    <img src="https://img.shields.io/badge/RESUME-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/ashish-kumar-nishad-705278361">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
+<div align="center">
+  <picture>
+    <img src="./assets/ashish_avatar_glow_circle.gif" width="160px" alt="Ashish Kumar" style="border-radius: 50%; max-width: 100%;">
+  </picture>
+  <br/><br/>
   <a href="#">
-    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ashish+Kumar+%F0%9F%91%8B;Full-Stack+Learner+%7C+ML+Enthusiast;Turning+ideas+into+deployed+apps" alt="Typing SVG" />
   </a>
-</p>
+  <br/><br/>
 
+[![Resume](https://img.shields.io/badge/RESUME-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](#https://drive.google.com/file/d/1TewSC5zTZm2Juh1bI5oQ3ONVr1hI-idl/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-nishad-705278361)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
+
+</div>
+
+---
 
 # About Me
 
-> I'm a curious learner who loves to understand how things work and turn ideas into reality. 
- I believe the best way to learn is by getting my hands dirty, experimenting, making mistakes, 
- and figuring things out.
-
- **I don't learn just to get a job. I learn because I love to build, 
- solve real-world problems, and turn my knowledge into something useful.**
-
- **I strongly believe in building projects, not just watching tutorials - because 
- the real learning begins when you start building.**
-
-> For me, every project is more than just a project; it's a chance to learn, experiment, 
-and create something that has a purpose.
+Aspiring AI Developer passionate about building intelligent and interactive applications.
+Skilled in **HTML, CSS, JavaScript, Python** and exploring Machine Learning through practical projects.
 
 ---
 
@@ -59,6 +49,7 @@ and create something that has a purpose.
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <br>
 </td>
 
@@ -88,6 +79,8 @@ and create something that has a purpose.
 <br>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/EDA-8B5CF6?style=flat-square&logoColor=white"/>
 
 </td>
@@ -97,14 +90,14 @@ and create something that has a purpose.
 ### Tools & Deployment
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-
 
 </td>
 </tr>
@@ -116,11 +109,10 @@ and create something that has a purpose.
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [**Career Sense**](https://github.com/ashish-dev-hub/CareerSense) | AI-powered career guidance platform that helps students explore suitable career paths through personalized analysis and data-driven insights. | HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, Python, ML |
+| [**RescueBite AI**](https://github.com/ashish-dev-hub/RescueBite-AI) | AI-powered surplus-food redistribution platform that connects donors like restaurants and grocery stores with NGOs, with coordinator-approved allocations, delivery tracking and demand forecasting. | React, Vite, Node.js, Express.js, MongoDB, Python, FastAPI, ML |
+| [**InternMatch-AI**](https://github.com/ashish-dev-hub/InternMatch) | AI-powered job and internship matching platform that evaluates candidate-job fit, predicts salary and recommends roles for students and recruiters. | React, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, Python, FastAPI, XGBoost, Scikit-learn |
+| [**Career Sense**](https://github.com/ashish-dev-hub/CareerSense) | AI-powered career intelligence platform that connects skill-gap analysis, personalized roadmaps, project ideas, resume feedback and interview practice into one career-readiness workflow for students. | React, Tailwind CSS, JavaScript, Node.js, Express.js, MongoDB Atlas, Google Gemini API |
 | [**Student Exam Score Predictor**](https://github.com/ashish-dev-hub/student-predictor) | ML application for predicting student exam performance using academic and lifestyle-related features. | Python, Pandas, NumPy, Scikit-learn, Streamlit |
-| [**GitHub Profile Visualizer**](https://github.com/ashish-dev-hub/github-profile-visualizer) | Web application that retrieves and visualizes GitHub profile information using the GitHub API. | HTML, CSS, JavaScript, GitHub API |
-| [**Heart Disease Prediction**](https://github.com/ashish-dev-hub/heart-prediction) | AI-powered cardiovascular risk prediction dashboard that analyzes patient health indicators and provides an interactive assessment of potential heart disease risk. | React, Vite, Tailwind CSS, Chart.js, Python, Machine Learning |
-| [**Snake Game**](https://github.com/ashish-dev-hub/game-task-) | Interactive browser-based Snake Game with keyboard controls, scoring and boundary wrapping. | HTML, CSS, JavaScript |
 
 ---
 
@@ -131,20 +123,24 @@ and create something that has a purpose.
 <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=ashish-dev-hub&theme=tokyonight"/>
 </p>
 
+
+
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/ashish-dev-hub/ashish-dev-hub/output/github-snake-dark.svg"/>
+      srcset="https://raw.githubusercontent.com/ashish-dev-hub/ashish-dev-hub/output/github-snake-dark.svg"
+    />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/ashish-dev-hub/ashish-dev-hub/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/ashish-dev-hub/ashish-dev-hub/output/github-snake.svg" alt="GitHub Contribution Snake"/>
+      srcset="https://raw.githubusercontent.com/ashish-dev-hub/ashish-dev-hub/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/ashish-dev-hub/ashish-dev-hub/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
   </picture>
 </p>
-
-
----
 
 ## Profile Views
 
