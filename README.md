@@ -6,8 +6,7 @@
   <br/><br/>
   <img src="./assets/typing.svg" alt="Ashish Kumar Nishad - Roles &amp; Achievements" />
   <br/><br/>
-
-[![Resume](https://img.shields.io/badge/RESUME-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](#https://drive.google.com/file/d/1TewSC5zTZm2Juh1bI5oQ3ONVr1hI-idl/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/RESUME-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Hhms9YV5cticeZu6g8iXXnWLRMmKf7-g/view)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-nishad-705278361)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
 
